@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WordFinder</string>
+    <string name="definition_not_found">Definition not found</string>
+    <string name="ipa_info_not_available">IPA information not available</string>
+</resources>
