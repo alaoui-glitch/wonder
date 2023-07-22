@@ -1,9 +1,12 @@
 package com.example.testox;
 
+import java.util.List;
+
 public class Word {
     private String word;
     private String definition;
-    private String ipa; // Add the IPA property
+    private String ipa;
+    private List<String> synonyms; // Add the synonyms property
 
     public String getWord() {
         return word;
@@ -28,4 +31,13 @@ public class Word {
     public void setIpa(String ipa) {
         this.ipa = ipa;
     }
+
+    public List<String> getSynonyms() {
+        return synonyms;
+    }
+
+    public void setSynonyms(List<String> synonyms) {
+        this.synonyms = synonyms;
+    }
 }
+

@@ -2,6 +2,7 @@ package com.example.testox;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 import android.widget.Button;
 import android.widget.EditText;
 
@@ -28,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        loadWordDefinitions();
+        loadWordDefinitions(); // Ensure wordMap is initialized
 
         Button searchButton = findViewById(R.id.buttonSearch);
         EditText wordEditText = findViewById(R.id.editTextWord);
@@ -43,8 +44,11 @@ public class MainActivity extends AppCompatActivity {
             if (wordObj != null) {
                 String definition = searchWordDefinition(searchWord);
                 String ipa = wordObj.getIpa();
+                List<String> synonyms = wordObj.getSynonyms(); // Get synonyms from Word object
+
                 intent.putExtra("definition", definition);
                 intent.putExtra("ipa", ipa);
+                intent.putStringArrayListExtra("synonyms", new ArrayList<>(synonyms)); // Pass synonyms as an extra
             } else {
                 intent.putExtra("definition", "Definition not found for this word.");
             }
@@ -62,6 +66,7 @@ public class MainActivity extends AppCompatActivity {
             inputStream.close();
 
             String json = new String(buffer, "UTF-8");
+            Log.d("JSON", json); // Add this line to log the loaded JSON data
 
             JSONArray jsonArray = new JSONArray(json);
             wordList = new ArrayList<>();
@@ -73,10 +78,20 @@ public class MainActivity extends AppCompatActivity {
                 String definition = jsonObject.getString("definition");
                 String ipa = jsonObject.getString("ipa"); // Get IPA from JSON
 
+                // Get synonyms from JSON
+                List<String> synonyms = new ArrayList<>();
+                if (jsonObject.has("synonyms")) {
+                    JSONArray synonymsArray = jsonObject.getJSONArray("synonyms");
+                    for (int j = 0; j < synonymsArray.length(); j++) {
+                        synonyms.add(synonymsArray.getString(j));
+                    }
+                }
+
                 Word wordObj = new Word();
                 wordObj.setWord(word);
                 wordObj.setDefinition(definition);
                 wordObj.setIpa(ipa); // Set IPA for Word object
+                wordObj.setSynonyms(synonyms); // Set synonyms for Word object
 
                 wordList.add(wordObj);
                 wordMap.put(word, wordObj); // Add Word object to wordMap
@@ -87,7 +102,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private Word searchWordObject(String searchWord) {
-        return wordMap.get(searchWord);
+        if (wordMap == null) {
+            loadWordDefinitions(); // Initialize wordMap if not already initialized
+        }
+        return (wordMap != null) ? wordMap.get(searchWord) : null;
     }
 
     private String searchWordDefinition(String searchWord) {
@@ -99,4 +117,3 @@ public class MainActivity extends AppCompatActivity {
         return null;
     }
 }
-
