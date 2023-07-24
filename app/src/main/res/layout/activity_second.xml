@@ -45,7 +45,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="8dp"
-                android:layout_marginTop="52dp"
+                android:layout_marginTop="54dp"
                 android:textColor="@color/white"
                 android:textSize="16sp" />
 
@@ -57,9 +57,9 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textColor="@color/white"
-            android:textSize="35sp"
+            android:textSize="40sp"
             android:layout_marginStart="30dp"
-            android:textStyle="italic"
+            android:textStyle="bold"
             android:layout_below="@id/textViewShowIPA"
             android:layout_marginTop="15dp" />
 
@@ -70,7 +70,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@id/cardView"
-        android:layout_marginTop="150dp"
+        android:layout_marginTop="50dp"
         app:cardBackgroundColor="@android:color/white"
         app:cardCornerRadius="8dp"
         app:cardElevation="4dp"
@@ -84,6 +84,7 @@
             android:layout_marginTop="55dp"
             android:textAppearance="?android:textAppearanceMedium"
             android:textColor="@color/black" />
+
 
         <!-- TextView for Definition label -->
         <TextView
@@ -104,7 +105,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@id/cardView"
-        android:layout_marginTop="310dp"
+        android:layout_marginTop="200dp"
         app:cardBackgroundColor="@android:color/white"
         app:cardCornerRadius="8dp"
         app:cardElevation="4dp"
@@ -134,6 +135,8 @@
     </androidx.cardview.widget.CardView>
 
 </RelativeLayout>
+
+
 
 
 

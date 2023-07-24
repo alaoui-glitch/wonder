@@ -17,7 +17,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Thesaurus"
-        android:textSize="24sp"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:layout_marginTop="15dp"
         android:textColor="#191970" />
 
     <TextView
@@ -27,23 +29,27 @@
         android:text="Find synonyms, antonyms, and related words"
         android:textSize="18sp"
         android:textColor="#191970"
-        android:layout_marginTop="8dp" />
+        android:layout_marginTop="20dp" />
 
     <EditText
         android:id="@+id/editTextWord"
-        android:layout_width="336dp"
+        android:layout_width="338dp"
         android:layout_height="48dp"
         android:autofillHints="text"
-        android:hint="Enter a word"
+        android:background="@drawable/edittext_background"
+        android:hint=" Enter a word "
+        android:layout_marginTop="40dp"
+        android:textAlignment="center"
         android:inputType="text"
-        android:minHeight="48dp"
-        android:text="Hello, World!" />
+        android:minHeight="48dp" />
 
     <Button
         android:id="@+id/buttonSearch"
+        android:layout_marginTop="80dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Search" />
+
 
 </LinearLayout>
 

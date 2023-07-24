@@ -1,15 +1,1377 @@
 [
   {
-    "word": "example",
-    "ipa": "[ɪɡˈzæmpəl]",
-    "definition": "A thing characteristic of its kind or illustrating a general rule.",
-    "synonyms": ["illustration", "instance", "sample", "model"]
+    "word": "abacus",
+    "ipa": "[ˈæbəkəs]",
+    "definition": "An ancient counting device with beads or counters.",
+    "synonyms": ["counting frame", "calculator", "reckoner"]
   },
   {
-    "word": "awesome",
-    "definition": "Extremely impressive or daunting; inspiring awe.",
-    "ipa": "[ˈɔːsəm]",
-    "synonyms": ["amazing", "astonishing", "stunning", "breathtaking"]
+    "word": "abandon",
+    "ipa": "[əˈbændən]",
+    "definition": "To leave or desert someone or something.",
+    "synonyms": ["forsake", "discard", "abrogate", "relinquish"]
+  },
+  {
+    "word": "abase",
+    "ipa": "[əˈbeɪs]",
+    "definition": "To behave in a way that belittles or degrades someone.",
+    "synonyms": ["humiliate", "degrade", "disgrace", "lower"]
+  },
+  {
+    "word": "abate",
+    "ipa": "[əˈbeɪt]",
+    "definition": "To become less intense or widespread.",
+    "synonyms": ["diminish", "decrease", "lessen", "reduce"]
+  },
+  {
+    "word": "aberration",
+    "ipa": "[ˌæbəˈreɪʃən]",
+    "definition": "A departure from what is normal, usual, or expected, typically one that is unwelcome.",
+    "synonyms": ["anomaly", "deviation", "oddity", "irregularity"]
+  },
+  {
+    "word": "abhor",
+    "ipa": "[əbˈhɔː]",
+    "definition": "To regard with disgust and hatred.",
+    "synonyms": ["detest", "despise", "loathe", "execrate"]
+  },
+  {
+    "word": "abide",
+    "ipa": "[əˈbaɪd]",
+    "definition": "To accept or act in accordance with a rule, decision, or recommendation.",
+    "synonyms": ["comply", "follow", "obey", "adhere"]
+  },
+  {
+    "word": "ability",
+    "ipa": "[əˈbɪlɪti]",
+    "definition": "The capacity to do something.",
+    "synonyms": ["capability", "competence", "skill", "talent"]
+  },
+  {
+    "word": "abnormal",
+    "ipa": "[æbˈnɔːrml]",
+    "definition": "Not typical, usual, or regular.",
+    "synonyms": ["atypical", "anomalous", "deviant", "irregular"]
+  },
+  {
+    "word": "abolish",
+    "ipa": "[əˈbɒlɪʃ]",
+    "definition": "To formally put an end to something.",
+    "synonyms": ["annul", "repeal", "nullify", "invalidate"]
+  },
+  {
+    "word": "abound",
+    "ipa": "[əˈbaʊnd]",
+    "definition": "To exist in large numbers or amounts.",
+    "synonyms": ["overflow", "teem", "thrive", "proliferate"]
+  },
+  {
+    "word": "abrasive",
+    "ipa": "[əˈbreɪsɪv]",
+    "definition": "Causing friction, grinding, or rubbing.",
+    "synonyms": ["gritty", "harsh", "rough", "scratchy"]
+  },
+  {
+    "word": "abridge",
+    "ipa": "[əˈbrɪdʒ]",
+    "definition": "To shorten or condense without losing the sense.",
+    "synonyms": ["abbreviate", "cut", "truncate", "compress"]
+  },
+  {
+    "word": "abroad",
+    "ipa": "[əˈbrɔːd]",
+    "definition": "In or to a foreign country.",
+    "synonyms": ["overseas", "internationally", "foreign", "away"]
+  },
+  {
+    "word": "abrupt",
+    "ipa": "[əˈbrʌpt]",
+    "definition": "Sudden or unexpected.",
+    "synonyms": ["hasty", "unexpected", "precipitous", "brusque"]
+  },
+  {
+    "word": "absence",
+    "ipa": "[ˈæbsəns]",
+    "definition": "The state of being away or not present.",
+    "synonyms": ["nonexistence", "lack", "deficiency", "shortage"]
+  },
+  {
+    "word": "absorb",
+    "ipa": "[əbˈsɔːrb]",
+    "definition": "To take in or soak up something.",
+    "synonyms": ["soak up", "imbibe", "assimilate", "consume"]
+  },
+  {
+    "word": "abstain",
+    "ipa": "[əbˈsteɪn]",
+    "definition": "To refrain from doing something.",
+    "synonyms": ["refrain", "avoid", "forbear", "withhold"]
+  },
+  {
+    "word": "abstract",
+    "ipa": "[ˈæbstrækt]",
+    "definition": "Existing in thought or as an idea but not having a physical or concrete existence.",
+    "synonyms": ["theoretical", "conceptual", "nonrepresentational", "summary"]
+  },
+  {
+    "word": "absurd",
+    "ipa": "[əbˈsɜːrd]",
+    "definition": "Wildly unreasonable or illogical.",
+    "synonyms": ["ridiculous", "preposterous", "laughable", "nonsensical"]
+  },
+  {
+    "word": "abundant",
+    "ipa": "[əˈbʌndənt]",
+    "definition": "Present in great quantity; more than adequate.",
+    "synonyms": ["plentiful", "copious", "ample", "profuse"]
+  },
+  {
+    "word": "abyss",
+    "ipa": "[əˈbɪs]",
+    "definition": "A deep, seemingly bottomless chasm.",
+    "synonyms": ["chasm", "gulf", "void", "pit"]
+  },
+  {
+    "word": "academic",
+    "ipa": "[ˌækəˈdɛmɪk]",
+    "definition": "Related to education and scholarship.",
+    "synonyms": ["educational", "scholarly", "intellectual", "theoretical"]
+  },
+  {
+    "word": "accede",
+    "ipa": "[əkˈsiːd]",
+    "definition": "To agree to a demand, request, or treaty.",
+    "synonyms": ["consent", "accept", "comply", "assent"]
+  },
+  {
+    "word": "accelerate",
+    "ipa": "[əkˈsɛləreɪt]",
+    "definition": "To increase in speed or rate.",
+    "synonyms": ["speed up", "quicken", "hasten", "expedite"]
+  },
+  {
+    "word": "accent",
+    "ipa": "[ˈæksɛnt]",
+    "definition": "A distinctive way of pronouncing a language.",
+    "synonyms": ["pronunciation", "intonation", "stress", "emphasis"]
+  },
+  {
+    "word": "accept",
+    "ipa": "[əkˈsɛpt]",
+    "definition": "To agree to receive or undertake something.",
+    "synonyms": ["receive", "take", "embrace", "adopt"]
+  },
+  {
+    "word": "access",
+    "ipa": "[ˈæksɛs]",
+    "definition": "The means or opportunity to approach or enter a place.",
+    "synonyms": ["entry", "admittance", "entrance", "approach"]
+  },
+  {
+    "word": "accident",
+    "ipa": "[ˈæksɪdənt]",
+    "definition": "An unfortunate incident that happens unexpectedly and unintentionally.",
+    "synonyms": ["mishap", "mishappening", "mishandling", "misadventure"]
+  },
+  {
+    "word": "acclaim",
+    "ipa": "[əˈkleɪm]",
+    "definition": "To praise enthusiastically and publicly.",
+    "synonyms": ["applaud", "praise", "commend", "extol"]
+  },
+  {
+    "word": "acclimate",
+    "ipa": "[ˈæklɪˌmeɪt]",
+    "definition": "To become accustomed to a new climate or environment.",
+    "synonyms": ["adjust", "adapt", "get used to", "acclimatize"]
+  },
+  {
+    "word": "accompany",
+    "ipa": "[əˈkʌmpəni]",
+    "definition": "To go somewhere with someone as a companion or escort.",
+    "synonyms": ["escort", "attend", "accompany", "chaperone"]
+  },
+  {
+    "word": "accomplish",
+    "ipa": "[əˈkʌmplɪʃ]",
+    "definition": "To achieve or complete successfully.",
+    "synonyms": ["achieve", "attain", "fulfill", "realize"]
+  },
+  {
+    "word": "accord",
+    "ipa": "[əˈkɔːrd]",
+    "definition": "An official agreement or treaty.",
+    "synonyms": ["agreement", "pact", "treaty", "compact"]
+  },
+  {
+    "word": "account",
+    "ipa": "[əˈkaʊnt]",
+    "definition": "A description or representation of an event or experience.",
+    "synonyms": ["narrative", "report", "story", "description"]
+  },
+  {
+    "word": "accumulate",
+    "ipa": "[əˈkjuːmjəˌleɪt]",
+    "definition": "To gather or collect gradually over time.",
+    "synonyms": ["amass", "collect", "build up", "gather"]
+  },
+  {
+    "word": "accurate",
+    "ipa": "[ˈækjərət]",
+    "definition": "Free from error or precision.",
+    "synonyms": ["precise", "exact", "correct", "right"]
+  },
+  {
+    "word": "accuse",
+    "ipa": "[əˈkjuːz]",
+    "definition": "To charge someone with a wrongdoing or offense.",
+    "synonyms": ["charge", "allege", "incriminate", "impeach"]
+  },
+  {
+    "word": "ache",
+    "ipa": "[eɪk]",
+    "definition": "A continuous dull pain.",
+    "synonyms": ["pain", "soreness", "discomfort", "throbbing"]
+  },
+  {
+    "word": "achieve",
+    "ipa": "[əˈtʃiːv]",
+    "definition": "To successfully bring about or accomplish a goal.",
+    "synonyms": ["accomplish", "attain", "fulfill", "realize"]
+  },
+  {
+    "word": "acid",
+    "ipa": "[ˈæsɪd]",
+    "definition": "A chemical substance with a pH less than 7, having a sour taste and the ability to react with bases.",
+    "synonyms": ["sour", "bitter", "sharp", "tart"]
+  },
+  {
+    "word": "acknowledge",
+    "ipa": "[əkˈnɒlɪdʒ]",
+    "definition": "To admit the existence or truth of something.",
+    "synonyms": ["admit", "accept", "recognize", "confess"]
+  },
+  {
+    "word": "acoustic",
+    "ipa": "[əˈkuːstɪk]",
+    "definition": "Related to sound or the sense of hearing.",
+    "synonyms": ["auditory", "sound", "hearing", "aural"]
+  },
+  {
+    "word": "acquaint",
+    "ipa": "[əˈkweɪnt]",
+    "definition": "To make someone aware of or familiar with something.",
+    "synonyms": ["familiarize", "inform", "apprise", "notify"]
+  },
+  {
+    "word": "acquire",
+    "ipa": "[əˈkwaɪər]",
+    "definition": "To obtain or come into possession of something.",
+    "synonyms": ["obtain", "gain", "get", "procure"]
+  },
+  {
+    "word": "acquit",
+    "ipa": "[əˈkwɪt]",
+    "definition": "To declare someone not guilty of a crime.",
+    "synonyms": ["exonerate", "absolve", "clear", "pardon"]
+  },
+  {
+    "word": "acre",
+    "ipa": "[ˈeɪkər]",
+    "definition": "A unit of land area equal to 43,560 square feet.",
+    "synonyms": ["land", "plot", "lot", "field"]
+  },
+  {
+    "word": "acrobat",
+    "ipa": "[ˈækrəˌbæt]",
+    "definition": "A skilled performer of gymnastic feats.",
+    "synonyms": ["gymnast", "tumbler", "contortionist", "aerialist"]
+  },
+  {
+    "word": "acronym",
+    "ipa": "[ˈækrəˌnɪm]",
+    "definition": "An abbreviation formed from the initial letters of other words and pronounced as a word.",
+    "synonyms": ["initialism", "short form", "code", "shorthand"]
+  },
+  {
+    "word": "across",
+    "ipa": "[əˈkrɒs]",
+    "definition": "From one side to the other.",
+    "synonyms": ["over", "through", "from one side to the other", "crosswise"]
+  },
+  {
+    "word": "act",
+    "ipa": "[ækt]",
+    "definition": "To take action; to do something.",
+    "synonyms": ["perform", "do", "execute", "carry out"]
+  },
+  {
+    "word": "action",
+    "ipa": "[ˈækʃən]",
+    "definition": "The process of doing something; deed or effort.",
+    "synonyms": ["activity", "operation", "work", "movement"]
+  },
+  {
+    "word": "active",
+    "ipa": "[ˈæktɪv]",
+    "definition": "Engaged in physical or mental activity.",
+    "synonyms": ["energetic", "dynamic", "lively", "vigorous"]
+  },
+  {
+    "word": "actor",
+    "ipa": "[ˈæk.tər]",
+    "definition": "A person who performs in plays, movies, or television shows.",
+    "synonyms": ["performer", "player", "artist", "thespian"]
+  },
+  {
+    "word": "actress",
+    "ipa": "[ˈæk.trəs]",
+    "definition": "A female actor who performs in plays, movies, or television shows.",
+    "synonyms": ["performer", "player", "artist", "thespian"]
+  },
+  {
+    "word": "actual",
+    "ipa": "[ˈækʧuəl]",
+    "definition": "Existing in reality or as a fact.",
+    "synonyms": ["real", "genuine", "authentic", "true"]
+  },
+  {
+    "word": "adapt",
+    "ipa": "[əˈdæpt]",
+    "definition": "To make suitable for a new purpose or situation.",
+    "synonyms": ["adjust", "modify", "alter", "change"]
+  },
+  {
+    "word": "add",
+    "ipa": "[æd]",
+    "definition": "To put something together with something else.",
+    "synonyms": ["combine", "join", "mix", "incorporate"]
+  },
+  {
+    "word": "addict",
+    "ipa": "[ˈædɪkt]",
+    "definition": "A person who is addicted to a particular substance or activity.",
+    "synonyms": ["junkie", "user", "abuser", "enthusiast"]
+  },
+  {
+    "word": "addition",
+    "ipa": "[əˈdɪʃən]",
+    "definition": "The process or action of adding something to something else.",
+    "synonyms": ["inclusion", "joining", "annexation", "attachment"]
+  },
+  {
+    "word": "address",
+    "ipa": "[əˈdrɛs]",
+    "definition": "The location where someone lives or where a business is located.",
+    "synonyms": ["location", "place", "residence", "site"]
+  },
+  {
+    "word": "adept",
+    "ipa": "[əˈdɛpt]",
+    "definition": "Highly skilled or proficient in a particular area.",
+    "synonyms": ["skilled", "proficient", "expert", "competent"]
+  },
+  {
+    "word": "adequate",
+    "ipa": "[ˈædɪkwɪt]",
+    "definition": "Sufficient to meet a need or requirement.",
+    "synonyms": ["satisfactory", "acceptable", "sufficient", "enough"]
+  },
+  {
+    "word": "adhere",
+    "ipa": "[ədˈhɪr]",
+    "definition": "To stick to or follow a rule, belief, or course of action.",
+    "synonyms": ["stick to", "comply with", "abide by", "conform to"]
+  },
+  {
+    "word": "adjacent",
+    "ipa": "[əˈdʒeɪsənt]",
+    "definition": "Next to or adjoining something else.",
+    "synonyms": ["adjoining", "neighboring", "next to", "nearby"]
+  },
+  {
+    "word": "adjective",
+    "ipa": "[ˈædʒɪktɪv]",
+    "definition": "A word or phrase naming an attribute that modifies or describes a noun.",
+    "synonyms": ["descriptive word", "modifier", "qualifier"]
+  },
+  {
+    "word": "adjust",
+    "ipa": "[əˈdʒʌst]",
+    "definition": "To change or modify something slightly to improve it or make it fit better.",
+    "synonyms": ["adapt", "alter", "fine-tune", "calibrate"]
+  },
+  {
+    "word": "administer",
+    "ipa": "[ədˈmɪnɪstər]",
+    "definition": "To manage and be responsible for the running of something.",
+    "synonyms": ["manage", "conduct", "oversee", "supervise"]
+  },
+  {
+    "word": "admire",
+    "ipa": "[ədˈmaɪər]",
+    "definition": "To regard with respect or warm approval.",
+    "synonyms": ["respect", "esteem", "praise", "applaud"]
+  },
+  {
+    "word": "admit",
+    "ipa": "[ədˈmɪt]",
+    "definition": "To allow entry or access to a place.",
+    "synonyms": ["let in", "allow", "grant", "permit"]
+  },
+  {
+    "word": "adopt",
+    "ipa": "[əˈdɒpt]",
+    "definition": "To take up and start to use or follow.",
+    "synonyms": ["take on", "accept", "embrace", "assume"]
+  },
+  {
+    "word": "adore",
+    "ipa": "[əˈdɔːr]",
+    "definition": "To love and respect someone deeply.",
+    "synonyms": ["love", "cherish", "treasure", "revere"]
+  },
+  {
+    "word": "adult",
+    "ipa": "[ˈædʌlt]",
+    "definition": "A fully grown person who is legally responsible for their actions.",
+    "synonyms": ["grown-up", "mature", "full-grown", "grown"]
+  },
+  {
+    "word": "advance",
+    "ipa": "[ədˈvæns]",
+    "definition": "To move forward in a purposeful way.",
+    "synonyms": ["progress", "proceed", "move forward", "develop"]
+  },
+  {
+    "word": "adventure",
+    "ipa": "[ədˈvɛnʧər]",
+    "definition": "An exciting or unusual experience or activity.",
+    "synonyms": ["expedition", "journey", "trip", "exploit"]
+  },
+  {
+    "word": "adverb",
+    "ipa": "[ˈædvɜːrb]",
+    "definition": "A word or phrase that modifies or qualifies an adjective, verb, or other adverb.",
+    "synonyms": ["modifier", "qualifier", "descriptor", "intensifier"]
+  },
+  {
+    "word": "advertise",
+    "ipa": "[ˈædvərˌtaɪz]",
+    "definition": "To promote or draw attention to a product, service, or event.",
+    "synonyms": ["promote", "publicize", "market", "announce"]
+  },
+  {
+    "word": "advice",
+    "ipa": "[ədˈvaɪs]",
+    "definition": "Guidance or recommendations offered to help someone make decisions.",
+    "synonyms": ["counsel", "guidance", "direction", "suggestion"]
+  },
+  {
+    "word": "advise",
+    "ipa": "[ədˈvaɪz]",
+    "definition": "To offer suggestions or recommendations to help someone make decisions.",
+    "synonyms": ["counsel", "guide", "instruct", "warn"]
+  },
+  {
+    "word": "advocate",
+    "ipa": "[ˈædvəˌkeɪt]",
+    "definition": "To publicly support or recommend a particular cause, policy, or action.",
+    "synonyms": ["support", "champion", "endorse", "promote"]
+  },
+  {
+    "word": "aerial",
+    "ipa": "[ˈɛəriəl]",
+    "definition": "Existing or living in the air.",
+    "synonyms": ["airborne", "atmospheric", "sky", "overhead"]
+  },
+  {
+    "word": "aeroplane",
+    "ipa": "[ˈɛərəpleɪn]",
+    "definition": "An aircraft that has wings and one or more engines.",
+    "synonyms": ["airplane", "plane", "jet", "aircraft"]
+  },
+  {
+    "word": "aesthetic",
+    "ipa": "[ɛsˈθɛtɪk]",
+    "definition": "Concerned with beauty or the appreciation of beauty.",
+    "synonyms": ["artistic", "creative", "decorative", "ornamental"]
+  },
+  {
+    "word": "affair",
+    "ipa": "[əˈfɛər]",
+    "definition": "An event or sequence of events of a specified kind.",
+    "synonyms": ["incident", "occurrence", "happening", "event"]
+  },
+  {
+    "word": "affect",
+    "ipa": "[əˈfɛkt]",
+    "definition": "To have an influence on or make a change in something.",
+    "synonyms": ["influence", "impact", "change", "modify"]
+  },
+  {
+    "word": "affection",
+    "ipa": "[əˈfɛkʃən]",
+    "definition": "A gentle feeling of fondness or liking.",
+    "synonyms": ["love", "care", "fondness", "attachment"]
+  },
+  {
+    "word": "afford",
+    "ipa": "[əˈfɔːrd]",
+    "definition": "To have enough money to buy or pay for something.",
+    "synonyms": ["have enough money for", "be able to buy", "be able to pay for"]
+  },
+  {
+    "word": "afraid",
+    "ipa": "[əˈfreɪd]",
+    "definition": "Feeling fear or anxiety.",
+    "synonyms": ["scared", "frightened", "nervous", "terrified"]
+  },
+  {
+    "word": "after",
+    "ipa": "[ˈæftər]",
+    "definition": "Subsequent to in time or order.",
+    "synonyms": ["following", "subsequent to", "next", "later"]
+  },
+  {
+    "word": "afternoon",
+    "ipa": "[ˌɑːftərˈnuːn]",
+    "definition": "The time from noon or lunchtime until evening.",
+    "synonyms": ["pm", "pm period", "pm part"]
+  },
+  {
+    "word": "again",
+    "ipa": "[əˈɡɛn]",
+    "definition": "Once more; another time.",
+    "synonyms": ["once more", "one more time", "over again", "anew"]
+  },
+  {
+    "word": "against",
+    "ipa": "[əˈɡɛnst]",
+    "definition": "In opposition to; in resistance to.",
+    "synonyms": ["opposed to", "contrary to", "in opposition to", "counter to"]
+  },
+  {
+    "word": "age",
+    "ipa": "[eɪdʒ]",
+    "definition": "The length of time that a person or thing has existed.",
+    "synonyms": ["years", "length of existence", "lifespan", "duration"]
+  },
+  {
+    "word": "agency",
+    "ipa": "[ˈeɪdʒənsi]",
+    "definition": "A business or organization established to provide a particular service.",
+    "synonyms": ["company", "firm", "organization", "office"]
+  },
+  {
+    "word": "agenda",
+    "ipa": "[əˈdʒɛndə]",
+    "definition": "A list of items to be discussed at a meeting.",
+    "synonyms": ["schedule", "plan", "program", "timetable"]
+  },
+  {
+    "word": "agent",
+    "ipa": "[ˈeɪdʒənt]",
+    "definition": "A person who acts on behalf of another or represents a company or organization.",
+    "synonyms": ["representative", "broker", "middleman", "go-between"]
+  },
+  {
+    "word": "aggravate",
+    "ipa": "[ˈæɡrəveɪt]",
+    "definition": "To make a problem, injury, or offense worse or more serious.",
+    "synonyms": ["worsen", "exacerbate", "provoke", "irritate"]
+  },
+  {
+    "word": "agile",
+    "ipa": "[ˈædʒaɪl]",
+    "definition": "Able to move quickly and easily.",
+    "synonyms": ["nimble", "quick", "lively", "spry"]
+  },
+  {
+    "word": "agitate",
+    "ipa": "[ˈædʒɪteɪt]",
+    "definition": "To make someone feel anxious or troubled.",
+    "synonyms": ["disturb", "upset", "perturb", "disconcert"]
+  },
+  {
+    "word": "agonize",
+    "ipa": "[ˈæɡənaɪz]",
+    "definition": "To suffer extreme physical or mental pain.",
+    "synonyms": ["suffer", "torment", "distress", "worry"]
+  },
+  {
+    "word": "agree",
+    "ipa": "[əˈɡriː]",
+    "definition": "To have the same opinion or hold the same view.",
+    "synonyms": ["concur", "consent", "assent", "accord"]
+  },
+  {
+    "word": "ahead",
+    "ipa": "[əˈhɛd]",
+    "definition": "In or toward the front.",
+    "synonyms": ["in front", "forward", "in advance", "beforehand"]
+  },
+  {
+    "word": "aid",
+    "ipa": "[eɪd]",
+    "definition": "Help, typically of a practical nature.",
+    "synonyms": ["assistance", "support", "help", "benefit"]
+  },
+  {
+    "word": "aim",
+    "ipa": "[eɪm]",
+    "definition": "A purpose or intention; a desired outcome.",
+    "synonyms": ["purpose", "intention", "objective", "goal"]
+  },
+  {
+    "word": "air",
+    "ipa": "[ɛr]",
+    "definition": "The invisible gaseous substance surrounding the earth.",
+    "synonyms": ["atmosphere", "sky", "ether", "ozone"]
+  },
+  {
+    "word": "aircraft",
+    "ipa": "[ˈɛəkrɑːft]",
+    "definition": "A vehicle that can fly, such as an airplane or helicopter.",
+    "synonyms": ["airplane", "aeroplane", "plane", "flying machine"]
+  },
+  {
+    "word": "airline",
+    "ipa": "[ˈɛərlaɪn]",
+    "definition": "A company that provides regular flights to carry passengers or goods.",
+    "synonyms": ["air carrier", "air service", "airway"]
+  },
+  {
+    "word": "airport",
+    "ipa": "[ˈɛrˌpɔrt]",
+    "definition": "A place where aircraft regularly take off and land, have facilities for passengers, and can refuel.",
+    "synonyms": ["airfield", "airstrip", "landing field"]
+  },
+  {
+    "word": "ajar",
+    "ipa": "[əˈdʒɑːr]",
+    "definition": "Slightly open.",
+    "synonyms": ["open", "unclosed", "unlocked", "half-open"]
+  },
+  {
+    "word": "alarm",
+    "ipa": "[əˈlɑːrm]",
+    "definition": "A sudden fear or distressing suspense caused by an awareness of danger.",
+    "synonyms": ["fear", "panic", "apprehension", "anxiety"]
+  },
+  {
+    "word": "album",
+    "ipa": "[ˈælbəm]",
+    "definition": "A collection of recorded music, typically on a compact disc or vinyl record.",
+    "synonyms": ["record", "disk", "CD", "LP"]
+  },
+  {
+    "word": "alert",
+    "ipa": "[əˈlɜːrt]",
+    "definition": "Quick to notice any unusual and potentially dangerous or difficult circumstances.",
+    "synonyms": ["watchful", "attentive", "vigilant", "aware"]
+  },
+  {
+    "word": "alien",
+    "ipa": "[ˈeɪliən]",
+    "definition": "Belonging to a foreign country or nation.",
+    "synonyms": ["foreign", "non-native", "external", "extraterrestrial"]
+  },
+  {
+    "word": "alike",
+    "ipa": "[əˈlaɪk]",
+    "definition": "In the same or a similar way.",
+    "synonyms": ["similarly", "equally", "likewise", "in a like manner"]
+  },
+  {
+    "word": "alive",
+    "ipa": "[əˈlaɪv]",
+    "definition": "Living; having life.",
+    "synonyms": ["living", "existing", "animate", "breathing"]
+  },
+  {
+    "word": "all",
+    "ipa": "[ɔːl]",
+    "definition": "Used to refer to the whole quantity or extent of a particular group or thing.",
+    "synonyms": ["whole", "entire", "total", "complete"]
+  },
+  {
+    "word": "allay",
+    "ipa": "[əˈleɪ]",
+    "definition": "To diminish or put at rest (fear, suspicion, or worry).",
+    "synonyms": ["alleviate", "reduce", "calm", "pacify"]
+  },
+  {
+    "word": "allege",
+    "ipa": "[əˈlɛdʒ]",
+    "definition": "To claim or assert that someone has done something illegal or wrong without providing proof.",
+    "synonyms": ["claim", "accuse", "assert", "declare"]
+  },
+  {
+    "word": "alleviate",
+    "ipa": "[əˈliːvieɪt]",
+    "definition": "To make (suffering, deficiency, or a problem) less severe.",
+    "synonyms": ["ease", "relieve", "lessen", "mitigate"]
+  },
+  {
+    "word": "allocate",
+    "ipa": "[ˈæləˌkeɪt]",
+    "definition": "To distribute (resources or duties) for a particular purpose.",
+    "synonyms": ["distribute", "assign", "allot", "apportion"]
+  },
+  {
+    "word": "allow",
+    "ipa": "[əˈlaʊ]",
+    "definition": "To give permission for something to happen or someone to do something.",
+    "synonyms": ["permit", "let", "authorize", "enable"]
+  },
+  {
+    "word": "allude",
+    "ipa": "[əˈluːd]",
+    "definition": "To suggest or call attention to indirectly; to hint at.",
+    "synonyms": ["suggest", "imply", "refer to", "hint"]
+  },
+  {
+    "word": "ally",
+    "ipa": "[ˈælaɪ]",
+    "definition": "A country, person, or group that cooperates with or helps another.",
+    "synonyms": ["partner", "friend", "associate", "comrade"]
+  },
+  {
+    "word": "alone",
+    "ipa": "[əˈloʊn]",
+    "definition": "Having no one else present; on one's own.",
+    "synonyms": ["by oneself", "solitary", "single", "without company"]
+  },
+  {
+    "word": "along",
+    "ipa": "[əˈlɔːŋ]",
+    "definition": "Moving in a constant direction on or beside.",
+    "synonyms": ["by the side of", "on", "next to", "beside"]
+  },
+  {
+    "word": "already",
+    "ipa": "[ɔːlˈrɛdi]",
+    "definition": "Before or by now or the time in question.",
+    "synonyms": ["previously", "before", "prior to", "by now"]
+  },
+  {
+    "word": "also",
+    "ipa": "[ˈɔːlsoʊ]",
+    "definition": "In addition; too.",
+    "synonyms": ["as well", "in addition", "besides", "furthermore"]
+  },
+  {
+    "word": "alter",
+    "ipa": "[ˈɔːltər]",
+    "definition": "To change or cause to change in character or composition, typically in a comparatively small but significant way.",
+    "synonyms": ["change", "modify", "revise", "adjust"]
+  },
+  {
+    "word": "although",
+    "ipa": "[ɔːlˈðoʊ]",
+    "definition": "In spite of the fact that; though.",
+    "synonyms": ["though", "even though", "while", "nevertheless"]
+  },
+  {
+    "word": "altitude",
+    "ipa": "[ˈæltɪˌtjuːd]",
+    "definition": "The height of an object or point in relation to sea level or ground level.",
+    "synonyms": ["height", "elevation", "highness", "distance above the ground"]
+  },
+  {
+    "word": "altogether",
+    "ipa": "[ˌɔːltəˈɡɛðər]",
+    "definition": "Wholly; completely.",
+    "synonyms": ["completely", "entirely", "totally", "wholly"]
+  },
+  {
+    "word": "always",
+    "ipa": "[ˈɔːlwɛz]",
+    "definition": "At all times; on all occasions.",
+    "synonyms": ["forever", "perpetually", "continuously", "constantly"]
+  },
+  {
+    "word": "amateur",
+    "ipa": "[ˈæmətər]",
+    "definition": "A person who engages in a pursuit, especially a sport, on an unpaid basis.",
+    "synonyms": ["non-professional", "hobbyist", "enthusiast", "dabbler"]
+  },
+  {
+    "word": "amaze",
+    "ipa": "[əˈmeɪz]",
+    "definition": "To cause someone to be extremely surprised or shocked.",
+    "synonyms": ["astonish", "astound", "startle", "daze"]
+  },
+  {
+    "word": "ambiguous",
+    "ipa": "[æmˈbɪɡjuəs]",
+    "definition": "Open to more than one interpretation; having a double meaning.",
+    "synonyms": ["vague", "unclear", "equivocal", "indeterminate"]
+  },
+  {
+    "word": "ambition",
+    "ipa": "[æmˈbɪʃən]",
+    "definition": "A strong desire to do or achieve something, typically requiring determination and hard work.",
+    "synonyms": ["aspiration", "goal", "aim", "objective"]
+  },
+  {
+    "word": "ambulance",
+    "ipa": "[ˈæmbjəˌlæns]",
+    "definition": "A vehicle equipped for taking sick or injured people to and from the hospital, especially in emergencies.",
+    "synonyms": ["emergency vehicle", "rescue vehicle"]
+  },
+  {
+    "word": "amend",
+    "ipa": "[əˈmɛnd]",
+    "definition": "To make minor changes in order to make it fairer, more accurate, or more up-to-date.",
+    "synonyms": ["revise", "modify", "alter", "correct"]
+  },
+  {
+    "word": "amid",
+    "ipa": "[əˈmɪd]",
+    "definition": "Surrounded by; in the middle of.",
+    "synonyms": ["among", "in the midst of", "surrounded by", "amidst"]
+  },
+  {
+    "word": "among",
+    "ipa": "[əˈmʌŋ]",
+    "definition": "Surrounded by; in the company of.",
+    "synonyms": ["amid", "in the midst of", "surrounded by", "amidst"]
+  },
+  {
+    "word": "amount",
+    "ipa": "[əˈmaʊnt]",
+    "definition": "A quantity of something, typically the total of a thing or things in number, size, value, or extent.",
+    "synonyms": ["quantity", "total", "measure", "extent"]
+  },
+  {
+    "word": "ample",
+    "ipa": "[ˈæmpl]",
+    "definition": "Enough or more than enough; plentiful.",
+    "synonyms": ["plentiful", "abundant", "sufficient", "adequate"]
+  },
+  {
+    "word": "amuse",
+    "ipa": "[əˈmjuːz]",
+    "definition": "To cause someone to find something funny; entertain.",
+    "synonyms": ["entertain", "delight", "divert", "charm"]
+  },
+  {
+    "word": "analyze",
+    "ipa": "[ˈænəˌlaɪz]",
+    "definition": "To examine something in detail, typically for the purpose of explanation and interpretation.",
+    "synonyms": ["examine", "investigate", "study", "evaluate"]
+  },
+  {
+    "word": "ancient",
+    "ipa": "[ˈeɪnʃənt]",
+    "definition": "Belonging to the very distant past and no longer in existence.",
+    "synonyms": ["old", "antique", "archaic", "prehistoric"]
+  },
+  {
+    "word": "and",
+    "ipa": "[ænd]",
+    "definition": "Used to connect words or groups of words.",
+    "synonyms": ["in addition", "plus", "together with", "as well as"]
+  },
+  {
+    "word": "angel",
+    "ipa": "[ˈeɪndʒəl]",
+    "definition": "A spiritual being believed to act as an attendant, agent, or messenger of God.",
+    "synonyms": ["messenger", "celestial being", "spirit", "divine being"]
+  },
+  {
+    "word": "anger",
+    "ipa": "[ˈæŋɡər]",
+    "definition": "A strong feeling of annoyance, displeasure, or hostility.",
+    "synonyms": ["rage", "fury", "ire", "outrage"]
+  },
+  {
+    "word": "angle",
+    "ipa": "[ˈæŋɡəl]",
+    "definition": "The space (usually measured in degrees) between two intersecting lines or surfaces at or close to the point where they meet.",
+    "synonyms": ["corner", "bend", "slope", "inclination"]
+  },
+  {
+    "word": "angry",
+    "ipa": "[ˈæŋɡri]",
+    "definition": "Having a strong feeling of or showing annoyance, displeasure, or hostility.",
+    "synonyms": ["furious", "irritated", "outraged", "irate"]
+  },
+  {
+    "word": "animal",
+    "ipa": "[ˈænɪməl]",
+    "definition": "A living organism that feeds on organic matter, typically having specialized sense organs and nervous system and able to respond rapidly to stimuli.",
+    "synonyms": ["creature", "organism", "beast", "living being"]
+  },
+  {
+    "word": "ankle",
+    "ipa": "[ˈæŋkl]",
+    "definition": "The joint connecting the foot with the leg.",
+    "synonyms": ["tarsus", "instep", "heel", "talus"]
+  },
+  {
+    "word": "announce",
+    "ipa": "[əˈnaʊns]",
+    "definition": "To make a formal public statement about a fact, occurrence, or intention.",
+    "synonyms": ["declare", "proclaim", "publish", "broadcast"]
+  },
+  {
+    "word": "annoy",
+    "ipa": "[əˈnɔɪ]",
+    "definition": "To cause irritation or annoyance to; to irritate.",
+    "synonyms": ["irritate", "vex", "provoke", "aggravate"]
+  },
+  {
+    "word": "annual",
+    "ipa": "[ˈænjuəl]",
+    "definition": "Occurring once every year.",
+    "synonyms": ["yearly", "once-a-year", "annualized", "regular"]
+  },
+  {
+    "word": "another",
+    "ipa": "[əˈnʌðər]",
+    "definition": "Used to refer to an additional person or thing of the same type as one already mentioned or known.",
+    "synonyms": ["a different", "an additional", "one more", "some other"]
+  },
+  {
+    "word": "answer",
+    "ipa": "[ˈænsər]",
+    "definition": "A reply to a question, letter, or message.",
+    "synonyms": ["reply", "response", "acknowledgment", "retort"]
+  },
+  {
+    "word": "ant",
+    "ipa": "[ænt]",
+    "definition": "A small insect that typically lives in a complex social colony with one or more breeding queens.",
+    "synonyms": ["insect", "formicid", "pismire"]
+  },
+  {
+    "word": "anticipate",
+    "ipa": "[ænˈtɪsəˌpeɪt]",
+    "definition": "To regard as probable; expect or predict.",
+    "synonyms": ["expect", "foresee", "predict", "foretell"]
+  },
+  {
+    "word": "anxiety",
+    "ipa": "[æŋˈzaɪəti]",
+    "definition": "A feeling of worry, nervousness, or unease about something with an uncertain outcome.",
+    "synonyms": ["worry", "concern", "apprehension", "nervousness"]
+  },
+  {
+    "word": "any",
+    "ipa": "[ˈɛni]",
+    "definition": "Used to refer to one or some of a thing or number of things, no matter how much or how many.",
+    "synonyms": ["some", "a bit of", "a little", "a few"]
+  },
+  {
+    "word": "apart",
+    "ipa": "[əˈpɑːrt]",
+    "definition": "Separated by a distance in space or time.",
+    "synonyms": ["separate", "detached", "disconnected", "divided"]
+  },
+  {
+    "word": "apartment",
+    "ipa": "[əˈpɑːrtmənt]",
+    "definition": "A set of rooms for someone to live in on one level of a building or house.",
+    "synonyms": ["flat", "unit", "condo", "residence"]
+  },
+  {
+    "word": "apologize",
+    "ipa": "[əˈpɑːləˌdʒaɪz]",
+    "definition": "To express regret for something that one has done wrong.",
+    "synonyms": ["say sorry", "express regret", "make an apology"]
+  },
+  {
+    "word": "apparent",
+    "ipa": "[əˈpærənt]",
+    "definition": "Clearly visible or understood; obvious.",
+    "synonyms": ["evident", "obvious", "clear", "plain"]
+  },
+  {
+    "word": "appeal",
+    "ipa": "[əˈpiːl]",
+    "definition": "A serious or urgent request, typically one made to the public.",
+    "synonyms": ["request", "plea", "petition", "entreaty"]
+  },
+  {
+    "word": "appear",
+    "ipa": "[əˈpɪr]",
+    "definition": "To come into sight; become visible or noticeable.",
+    "synonyms": ["emerge", "become visible", "show", "be seen"]
+  },
+  {
+    "word": "appetite",
+    "ipa": "[ˈæpɪˌtaɪt]",
+    "definition": "A natural desire to satisfy a bodily need, especially for food.",
+    "synonyms": ["hunger", "craving", "desire", "longing"]
+  },
+  {
+    "word": "applaud",
+    "ipa": "[əˈplɔːd]",
+    "definition": "To show approval or praise by clapping.",
+    "synonyms": ["clap", "cheer", "acclaim", "praise"]
+  },
+  {
+    "word": "apply",
+    "ipa": "[əˈplaɪ]",
+    "definition": "To make a formal application or request.",
+    "synonyms": ["request", "seek", "put in", "put forward"]
+  },
+  {
+    "word": "appoint",
+    "ipa": "[əˈpɔɪnt]",
+    "definition": "To assign a job or role to (someone).",
+    "synonyms": ["assign", "designate", "nominate", "name"]
+  },
+  {
+    "word": "appraise",
+    "ipa": "[əˈpreɪz]",
+    "definition": "To assess the value or quality of.",
+    "synonyms": ["evaluate", "assess", "judge", "estimate"]
+  },
+  {
+    "word": "appreciate",
+    "ipa": "[əˈpriːʃiˌeɪt]",
+    "definition": "To recognize the full worth of; understand the importance of.",
+    "synonyms": ["value", "esteem", "cherish", "treasure"]
+  },
+  {
+    "word": "approach",
+    "ipa": "[əˈproʊtʃ]",
+    "definition": "To come near or nearer to (someone or something) in distance.",
+    "synonyms": ["move toward", "come near", "advance", "draw near"]
+  },
+  {
+    "word": "approve",
+    "ipa": "[əˈpruːv]",
+    "definition": "To officially agree to or accept as satisfactory.",
+    "synonyms": ["accept", "agree to", "endorse", "consent to"]
+  },
+  {
+    "word": "approximate",
+    "ipa": "[əˈprɑːksəmət]",
+    "definition": "Close to the actual, but not completely accurate or exact.",
+    "synonyms": ["near", "rough", "estimated", "close"]
+  },
+  {
+    "word": "arch",
+    "ipa": "[ɑːrtʃ]",
+    "definition": "A curved symmetrical structure spanning an opening.",
+    "synonyms": ["curve", "span", "vault", "domed ceiling"]
+  },
+  {
+    "word": "argue",
+    "ipa": "[ˈɑːrɡjuː]",
+    "definition": "To give reasons or cite evidence in support of an idea, action, or theory.",
+    "synonyms": ["debate", "dispute", "discuss", "reason"]
+  },
+  {
+    "word": "arise",
+    "ipa": "[əˈraɪz]",
+    "definition": "To originate or come into being.",
+    "synonyms": ["emerge", "occur", "develop", "come about"]
+  },
+  {
+    "word": "arm",
+    "ipa": "[ɑːrm]",
+    "definition": "Each of the two upper limbs of the human body from the shoulder to the hand.",
+    "synonyms": ["forelimb", "upper limb", "appendage", "extremity"]
+  },
+  {
+    "word": "around",
+    "ipa": "[əˈraʊnd]",
+    "definition": "In a circle or in circumference.",
+    "synonyms": ["round", "about", "encircling", "surrounding"]
+  },
+  {
+    "word": "arouse",
+    "ipa": "[əˈraʊz]",
+    "definition": "To evoke or awaken (a feeling, emotion, or response).",
+    "synonyms": ["awaken", "stimulate", "excite", "provoke"]
+  },
+  {
+    "word": "arrange",
+    "ipa": "[əˈreɪndʒ]",
+    "definition": "To put (things) in a neat, attractive, or required order.",
+    "synonyms": ["organize", "order", "sort out", "set up"]
+  },
+  {
+    "word": "arrest",
+    "ipa": "[əˈrɛst]",
+    "definition": "To seize (someone) by legal authority and take them into custody.",
+    "synonyms": ["detain", "apprehend", "take into custody", "capture"]
+  },
+  {
+    "word": "arrive",
+    "ipa": "[əˈraɪv]",
+    "definition": "To reach a place at the end of a journey or a stage in a journey.",
+    "synonyms": ["reach", "get to", "come", "appear"]
+  },
+  {
+    "word": "arrow",
+    "ipa": "[ˈæroʊ]",
+    "definition": "A shaft sharpened at one end and with feathers or vanes at the other, shot from a bow as a weapon or for sport.",
+    "synonyms": ["dart", "shaft", "projectile", "bolt"]
+  },
+  {
+    "word": "art",
+    "ipa": "[ɑːrt]",
+    "definition": "The expression or application of human creative skill and imagination, typically in a visual form.",
+    "synonyms": ["fine art", "visual art", "creative art", "work of art"]
+  },
+  {
+    "word": "article",
+    "ipa": "[ˈɑːrtɪkl]",
+    "definition": "A piece of writing included with others in a newspaper, magazine, or other publication.",
+    "synonyms": ["piece", "report", "feature", "essay"]
+  },
+  {
+    "word": "artificial",
+    "ipa": "[ˌɑːrtɪˈfɪʃəl]",
+    "definition": "Made or produced by human beings rather than occurring naturally.",
+    "synonyms": ["man-made", "synthetic", "manufactured", "imitation"]
+  },
+  {
+    "word": "ascend",
+    "ipa": "[əˈsɛnd]",
+    "definition": "To go up or climb.",
+    "synonyms": ["climb", "mount", "scale", "rise"]
+  },
+  {
+    "word": "ash",
+    "ipa": "[æʃ]",
+    "definition": "The powdery residue left after the burning of a substance.",
+    "synonyms": ["cinder", "embers", "remains", "debris"]
+  },
+  {
+    "word": "aside",
+    "ipa": "[əˈsaɪd]",
+    "definition": "To one side; out of the way.",
+    "synonyms": ["to the side", "off to the side", "away", "apart"]
+  },
+  {
+    "word": "ask",
+    "ipa": "[æsk]",
+    "definition": "To say something in order to obtain an answer or some information.",
+    "synonyms": ["inquire", "query", "question", "interrogate"]
+  },
+  {
+    "word": "asleep",
+    "ipa": "[əˈsliːp]",
+    "definition": "In or into a state of sleep.",
+    "synonyms": ["sleeping", "resting", "slumbering", "unconscious"]
+  },
+  {
+    "word": "aspect",
+    "ipa": "[ˈæspɛkt]",
+    "definition": "A particular part or feature of something.",
+    "synonyms": ["feature", "facet", "characteristic", "element"]
+  },
+  {
+    "word": "assemble",
+    "ipa": "[əˈsɛmbəl]",
+    "definition": "To gather together in one place for a common purpose.",
+    "synonyms": ["gather", "meet", "congregate", "collect"]
+  },
+  {
+    "word": "assert",
+    "ipa": "[əˈsɜːrt]",
+    "definition": "To state a fact or belief confidently and forcefully.",
+    "synonyms": ["declare", "affirm", "proclaim", "maintain"]
+  },
+  {
+    "word": "assess",
+    "ipa": "[əˈsɛs]",
+    "definition": "To evaluate or estimate the nature, ability, or quality of.",
+    "synonyms": ["evaluate", "judge", "appraise", "estimate"]
+  },
+  {
+    "word": "assign",
+    "ipa": "[əˈsaɪn]",
+    "definition": "To allocate a task or responsibility to someone.",
+    "synonyms": ["allocate", "allot", "appoint", "designate"]
+  },
+  {
+    "word": "assist",
+    "ipa": "[əˈsɪst]",
+    "definition": "To help (someone), typically by doing a share of the work.",
+    "synonyms": ["help", "aid", "support", "lend a hand"]
+  },
+  {
+    "word": "assume",
+    "ipa": "[əˈsuːm]",
+    "definition": "To suppose to be the case, without proof.",
+    "synonyms": ["presume", "believe", "expect", "take for granted"]
+  },
+  {
+    "word": "astonish",
+    "ipa": "[əˈstɑːnɪʃ]",
+    "definition": "To surprise or impress (someone) greatly.",
+    "synonyms": ["amaze", "astound", "stun", "shock"]
+  },
+  {
+    "word": "at",
+    "ipa": "[æt]",
+    "definition": "Expressing location or arrival in a particular place or position.",
+    "synonyms": ["in", "on", "near", "by"]
+  },
+  {
+    "word": "athlete",
+    "ipa": "[ˈæθliːt]",
+    "definition": "A person who is proficient in sports and other forms of physical exercise.",
+    "synonyms": ["sportsman", "sportswoman", "player", "competitor"]
+  },
+  {
+    "word": "atmosphere",
+    "ipa": "[ˈætməˌsfɪr]",
+    "definition": "The envelope of gases surrounding the earth or another planet.",
+    "synonyms": ["air", "climate", "environment", "surroundings"]
+  },
+  {
+    "word": "attach",
+    "ipa": "[əˈtætʃ]",
+    "definition": "To fasten or join one thing to another.",
+    "synonyms": ["fix", "connect", "affix", "secure"]
+  },
+  {
+    "word": "attack",
+    "ipa": "[əˈtæk]",
+    "definition": "To take aggressive action against (a place or enemy forces) with weapons or armed force.",
+    "synonyms": ["assault", "strike", "invade", "ra                                                                                                    y"]
+  },
+  {
+    "word": "attend",
+    "ipa": "[əˈtɛnd]",
+    "definition": "To be present at (an event, meeting, or function).",
+    "synonyms": ["be present", "participate in", "go to", "show up at"]
+  },
+  {
+    "word": "attention",
+    "ipa": "[əˈtɛnʃən]",
+    "definition": "The action of carefully observing or listening to someone or something.",
+    "synonyms": ["focus", "concentration", "notice", "awareness"]
+  },
+  {
+    "word": "attitude",
+    "ipa": "[ˈætɪˌtjuːd]",
+    "definition": "A settled way of thinking or feeling about something.",
+    "synonyms": ["view", "opinion", "stance", "mindset"]
+  },
+  {
+    "word": "attract",
+    "ipa": "[əˈtrækt]",
+    "definition": "To cause someone to have a liking or interest in someone or something.",
+    "synonyms": ["appeal to", "draw", "entice", "allure"]
+  },
+  {
+    "word": "attribute",
+    "ipa": "[ˈætrɪˌbjuːt]",
+    "definition": "To regard as being caused by someone or something.",
+    "synonyms": ["ascribe", "credit", "assign", "impute"]
+  },
+  {
+    "word": "auction",
+    "ipa": "[ˈɔːkʃən]",
+    "definition": "A public sale in which goods or property are sold to the highest bidder.",
+    "synonyms": ["sale", "selling", "bidding", "tender"]
+  },
+  {
+    "word": "audience",
+    "ipa": "[ˈɔːdiəns]",
+    "definition": "The assembled spectators or listeners at a public event, such as a play, movie, concert, or meeting.",
+    "synonyms": ["spectators", "viewers", "listeners", "crowd"]
+  },
+  {
+    "word": "aunt",
+    "ipa": "[ænt]",
+    "definition": "The sister of one's father or mother or the wife of one's uncle.",
+    "synonyms": ["auntie", "aunty"]
+  },
+  {
+    "word": "author",
+    "ipa": "[ˈɔːθər]",
+    "definition": "A writer of a book, article, or report.",
+    "synonyms": ["writer", "novelist", "scribe", "wordslinger"]
+  },
+  {
+    "word": "authority",
+    "ipa": "[ɔːˈθɔrəti]",
+    "definition": "The power or right to give orders, make decisions, and enforce obedience.",
+    "synonyms": ["power", "control", "command", "jurisdiction"]
+  },
+  {
+    "word": "auto",
+    "ipa": "[ˈɔːtoʊ]",
+    "definition": "A motor car.",
+    "synonyms": ["automobile", "car", "vehicle", "machine"]
+  },
+  {
+    "word": "automatic",
+    "ipa": "[ˌɔːtəˈmætɪk]",
+    "definition": "Operated by largely automatic action.",
+    "synonyms": ["mechanical", "self-regulating", "self-operating", "self-acting"]
+  },
+  {
+    "word": "autumn",
+    "ipa": "[ˈɔːtəm]",
+    "definition": "The third season of the year, when crops and fruits are gathered and leaves fall.",
+    "synonyms": ["fall", "harvest", "season", "time of year"]
+  },
+  {
+    "word": "avenue",
+    "ipa": "[ˈævəˌnjuː]",
+    "definition": "A broad road in a town or city, typically having trees at regular intervals along its sides.",
+    "synonyms": ["boulevard", "street", "road", "thoroughfare"]
+  },
+  {
+    "word": "average",
+    "ipa": "[ˈævərɪdʒ]",
+    "definition": "A number expressing the central or typical value in a set of data.",
+    "synonyms": ["mean", "median", "normal", "typical"]
+  },
+  {
+    "word": "avoid",
+    "ipa": "[əˈvɔɪd]",
+    "definition": "To keep away from or stop oneself from doing (something).",
+    "synonyms": ["evade", "shun", "refrain from", "stay away from"]
+  },
+  {
+    "word": "awake",
+    "ipa": "[əˈweɪk]",
+    "definition": "To stop sleeping; wake up.",
+    "synonyms": ["wake", "waken", "rouse", "stir"]
+  },
+  {
+    "word": "aware",
+    "ipa": "[əˈwɛr]",
+    "definition": "Having knowledge or perception of a situation or fact.",
+    "synonyms": ["conscious", "mindful", "informed", "knowing"]
+  },
+  {
+    "word": "away",
+    "ipa": "[əˈweɪ]",
+    "definition": "To or at a distance from a particular place, person, or thing.",
+    "synonyms": ["far off", "distant", "remote", "far away"]
+  },
+  {
+    "word": "awful",
+    "ipa": "[ˈɔːfəl]",
+    "definition": "Very bad or unpleasant.",
+    "synonyms": ["dreadful", "terrible", "horrible", "appalling"]
+  },
+  {
+    "word": "awkward",
+    "ipa": "[ˈɔːkwərd]",
+    "definition": "Causing difficulty; hard to do or deal with.",
+    "synonyms": ["clumsy", "uncoordinated", "inept", "unskilled"]
+  },
+  {
+    "word": "axe",
+    "ipa": "[æks]",
+    "definition": "A tool typically used for chopping wood, usually with a steel blade attached at a right angle to a wooden handle.",
+    "synonyms": ["hatchet", "tomahawk", "cleaver", "chopper"]
   }
 ]
 
